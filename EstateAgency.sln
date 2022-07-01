@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstateAgency.App", "EstateA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstateAgency.Lib", "EstateAgency.Lib\EstateAgency.Lib.csproj", "{6683A5C3-C4C8-4A55-B62D-6744838695B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstateAgency.Core", "EstateAgency.Core\EstateAgency.Core.csproj", "{AC0311EC-7DEE-4D30-85B8-256CBB0B704F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstateAgency.WebApi", "EstateAgency.WebApi\EstateAgency.WebApi.csproj", "{33352ACC-AB80-4780-8619-FA22642B6D30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{6683A5C3-C4C8-4A55-B62D-6744838695B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6683A5C3-C4C8-4A55-B62D-6744838695B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6683A5C3-C4C8-4A55-B62D-6744838695B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC0311EC-7DEE-4D30-85B8-256CBB0B704F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0311EC-7DEE-4D30-85B8-256CBB0B704F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0311EC-7DEE-4D30-85B8-256CBB0B704F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0311EC-7DEE-4D30-85B8-256CBB0B704F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33352ACC-AB80-4780-8619-FA22642B6D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33352ACC-AB80-4780-8619-FA22642B6D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33352ACC-AB80-4780-8619-FA22642B6D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33352ACC-AB80-4780-8619-FA22642B6D30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
